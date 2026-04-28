@@ -432,3 +432,78 @@ Total a pagar: $10.400
 Ya con toda esta informacion necesito que generes una solucion de forma adecuada con java, utilizando patrones, reacionales (instanciación de objetos), estructurales (composición de clases u objetos) y de comportamiento (interacción y responsabilidad entre objetos). Esto con el fin de dejar una solucion sencilla y rapida a el problema. Para finalizar necesito que dejes el registro de codigo como bash en el Solucion.md 
 
 
+promt utilizado:
+### Para el Problema #2 - Tienda Virtual
+
+1. **Identificar patrones**: ¿Qué dos patrones de diseño se están utilizando? ¿Son los adecuados o alguno debería cambiar?
+
+2. **Completar implementación**: ¿Qué clases/interfaces hacen falta para que el código satisfaga correctamente los patrones utilizados? 
+   - Documentar en el `SOLUCION.md` (no es necesario modificar los diagramas)
+
+3. **Validar diagrama**: ¿El diagrama de contexto proporciona información suficiente y pertinente? 
+   - Si es necesario hacer cambios, documentarlos en el `SOLUCION.md`
+
+4. **Identificar errores**: ¿Qué errores del código proporcionado identificaste? ¿Por qué no compila?
+
+5. **Corregir código**: Implementar las correcciones necesarias para que el sistema funcione correctamente
+
+6. **Ejecutar pruebas**:
+   - Ejecutar las pruebas unitarias proporcionadas
+   - Corregir las pruebas en caso de que fallen
+   - Verificar que todo compila y pasa las pruebas
+
+---
+
+## 📦 Estructura del Repositorio
+
+```
+IAGenInsideEngineering/
+├── docs/                          # Documentación y diagramas
+│   ├── imagenes/                  # Imágenes de referencia
+│   └── uml/                       # Diagramas UML
+├── src/
+│   ├── main/
+│   │   ├── java/                  # Código fuente
+│   │   │   └── eci/edu/byteProgramming/ejercicio/paper/
+│   │   │       └── util/          # Implementación del sistema de pagos
+│   │   └── resources/             # Propiedades y configuración
+│   └── test/                      # Pruebas unitarias
+└── README.md                       # Este archivo
+```
+
+---
+
+## 🚀 Para Comenzar
+
+1. Clone o haga fork del repositorio
+2. Abra los archivos fuente en `src/main/java/`
+3. Comience con la formación de prompts bien estructurados
+4. Documente su proceso en `SOLUCION.md`
+5. Verifique que el código compila sin errores
+6. Ejecute las pruebas unitarias
+
+---
+
+## 💡 Recomendaciones
+
+- **Tome notas** de los prompts que funcionan mejor
+- **Itere** sobre sus preguntas a la IA según los resultados
+- **Valide** cada solución contra los requisitos
+- **Documente** el razonamiento detrás de cada decisión
+- **Aproveche** la documentación brindada (diagramas, código parcial) en el problema #2
+
+---
+
+## 📚 Referencias Útiles
+
+- [Patrones de Diseño - Factory Pattern](https://refactoring.guru/design-patterns/factory-method)
+- [Patrones de Diseño - Observer Pattern](https://refactoring.guru/design-patterns/observer)
+- Java Generics y Polimorfismo
+- Principios SOLID
+
+---
+
+
+para el problema dos necesito que revises el contexto que te estoy dando arriba y aparte necesito que verifiques el codigo que ya hay, utilices y corrijas lo que sirva. Aparte de eso para este reto es necesario que tengas en cuenta la estructura del repositorio. IMPORTANTE revisa los docs que hay para poderte guiar, pero ten en cuenta que puede haber errores, entonces identificalos, mejoralo, solucionalo y vuelve a utilizar patrones de diseño con el fin de dejar una solucion simple y clara. En el Solucion.md deja un registro de lo que se hizo frente a codigo y explicacion de tu solucion, donde dejes que estaba mal y porque lo corregiste.
+
+acabe a los 20 min
