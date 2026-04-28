@@ -12,7 +12,6 @@ public class CryptoFactory extends PaymentMethod {
         super(amount, customerId, description);
         this.walletAddress = walletAddress;
         this.cryptoType = cryptoType;
-        this.token = token;
         this.walletBalance = walletBalance;
     }
     
