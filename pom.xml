@@ -75,7 +75,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>3.5.1</version>
 				<configuration>
-					<mainClass>eci.edu.dosw.parcial.parcial1cvdsdosw01.Application</mainClass>
+					<mainClass>eci.edu.byteProgramming.ejercicio.paper.videoclub.VideoclubConsoleApp</mainClass>
 				</configuration>
 			</plugin>
 
